@@ -1,1 +1,5 @@
 theme: jekyll-theme-cayman
+title: zhageww                    #你博客的标题
+SEOTitle: zhageww      #显示在浏览器上搜索的时候显示的标题
+url: "https://zhageww.github.io"          # 这个就是填写你的博客地址
+baseurl: ""      # 这个我们不用填写
